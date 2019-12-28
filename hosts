@@ -1,11 +1,11 @@
 # Title: Michael's Fake News Blacklist
 # Description: Protection from some of the most common fake news sites. Does not include satire sites.
 # Format: hosts
-# Version: 1.0.0
-# Release: 1
+# Version: 1.0.6
+# Release: 2
 # License: MPL-2.0
-# Updated: Fri 27 Dec 2019 07:13:15 PM EST
-# RAW: 
+# Updated: Fri 27 Dec 2019 07:55 PM EST
+# RAW: https://raw.githubusercontent.com/mgunt/fakenews/master/hosts
 
 0.0.0.0 100percentfedup.com
 0.0.0.0 20minutenews.com
