@@ -2,7 +2,6 @@
 # Description: Protection from some of the most common fake news sites. Does not include satire sites.
 # Format: hosts
 # Version: 1.0.6
-# Release: 2
 # License: MPL-2.0
 # Updated: Fri 27 Dec 2019 07:55 PM EST
 # RAW: https://raw.githubusercontent.com/mgunt/fakenews/master/hosts
