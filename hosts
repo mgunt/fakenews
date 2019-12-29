@@ -1,9 +1,9 @@
 # Title: Michael's Fake News Blacklist
 # Description: Protection from some of the most common fake news sites. Does not include satire sites.
 # Format: hosts
-# Version: 1.0.6
+# Version: 1.0.7
 # License: MPL-2.0
-# Updated: Fri Dec 27 2019 08:18 PM EST
+# Updated: Sun Dec 29 2019 04:00 AM EST
 # RAW: https://raw.githubusercontent.com/mgunt/fakenews/master/hosts
 
 0.0.0.0 100percentfedup.com
@@ -528,6 +528,7 @@
 0.0.0.0 rense.com
 0.0.0.0 reporter.bz
 0.0.0.0 research.news
+0.0.0.0 returnofkings.com
 0.0.0.0 revolt.news
 0.0.0.0 richardpan.news
 0.0.0.0 rickwells.us
