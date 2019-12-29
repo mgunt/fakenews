@@ -1,10 +1,10 @@
-# Title: Michael's Fake News Blacklist
 # Description: Protection from some of the most common fake news sites. Does not include satire sites.
 # Format: hosts
-# Version: 1.0.7
 # License: MPL-2.0
-# Updated: Sun Dec 29 2019 04:00 AM EST
 # RAW: https://raw.githubusercontent.com/mgunt/fakenews/master/hosts
+# Title: Michael's Fake News Blacklist
+# Updated: Sun Dec 29 2019 04:09 AM EST
+# Version: 1.0.8
 
 0.0.0.0 100percentfedup.com
 0.0.0.0 20minutenews.com
@@ -377,6 +377,7 @@
 0.0.0.0 livemonitor.co.za
 0.0.0.0 livingresistance.com
 0.0.0.0 longevitysciencenews.com
+0.0.0.0 louderwithcrowder.com
 0.0.0.0 lucidawakenings.net
 0.0.0.0 madashellnews.com
 0.0.0.0 madworldnews.com
@@ -949,4 +950,4 @@
 0.0.0.0 yournationnews.com
 0.0.0.0 yournewswire.com
 0.0.0.0 youtubecensorship.com
-0.0.0.0 zombie.news # blacklist
+0.0.0.0 zombie.news
