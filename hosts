@@ -3,14 +3,14 @@
 # License: MPL-2.0
 # RAW: https://raw.githubusercontent.com/mgunt/fakenews/master/hosts
 # Title: Michael's Fake News Blacklist
-# Updated: Sun Dec 29 2019 04:09 AM EST
-# Version: 1.0.8
-
+# Updated: Sun Dec 29 2019 04:11 AM EST
+# Version: 1.0.9
 0.0.0.0 100percentfedup.com
 0.0.0.0 20minutenews.com
 0.0.0.0 21stcenturywire.com
 0.0.0.0 365usanews.com
 0.0.0.0 4threvolutionarywar.wordpress.com
+0.0.0.0 4thwavenow.com
 0.0.0.0 5galert.com
 0.0.0.0 70news.wordpress.com
 0.0.0.0 aanirfan.blogspot.com
